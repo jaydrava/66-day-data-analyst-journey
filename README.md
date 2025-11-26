@@ -38,3 +38,21 @@
 
 **Last Updated:** November 26, 2025  
 **Current Status:** Day 1 Complete ✅
+
+DAY 2 AFTERNOON SESSION (Nov 26, 3:31-4:15 PM)
+
+New Concepts Learned:
+- IN operator (cleaner than multiple OR)
+- NOT operator (negation)
+- Aggregate functions: COUNT, SUM, AVG, MIN, MAX
+- GROUP BY (split data into groups, calculate per group)
+- HAVING (filter groups after aggregation)
+- CASE WHEN (conditional logic)
+
+Queries Written: 45+ total today
+
+Key Insight:
+GROUP BY is THE most powerful SQL feature for business analysis.
+One query replaces 10+ separate queries.
+
+Next Session: Learn JOINs (combining multiple tables)
