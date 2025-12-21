@@ -25,9 +25,6 @@ ecommerce-python-mini-project/
 │
 └── README.md
 
-yaml
-Copy code
-
 ---
 
 ## 🧹 Data Cleaning Summary
