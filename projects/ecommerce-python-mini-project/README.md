@@ -13,7 +13,7 @@ The project focuses on:
 ---
 
 ## 📂 Project Structure
-`base
+```
 ecommerce-python-mini-project/
 │
 ├── data/
@@ -25,7 +25,7 @@ ecommerce-python-mini-project/
 │ └── E-Commerce Sales Analysis.ipynb
 │
 └── README.md
-``
+```
 ---
 
 ## 🧹 Data Cleaning Summary
