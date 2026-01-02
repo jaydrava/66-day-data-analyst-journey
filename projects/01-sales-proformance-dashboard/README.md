@@ -13,8 +13,8 @@ An interactive Excel dashboard analyzing TechMart Electronics sales performance 
 
 ## Key Insights
 - Total Revenue: **$84,109**  
-- Top Region: **West ($21,701)**  
-- Best Month: **February ($13,071)**  
+- Top Region: **East ($25,432)**  
+- Best Month: **February ($17,780)**  
 
 ## Tools Used
 Microsoft Excel, PivotTables, charts (bar/line/combo), slicers, conditional formatting, formulas
