@@ -25,3 +25,14 @@ Microsoft Excel, PivotTables, charts (bar/line/combo), slicers, conditional form
 
 ## Skills Demonstrated
 Excel analysis, dashboard design, data visualization, interactive filtering, executive-style reporting
+
+## Tableau Version
+
+Interactive dashboard recreated in Tableau for enhanced visualization and interactivity.
+
+**View Live Dashboard:** https://public.tableau.com/app/profile/jaydeep.raval/viz/SalesPerformanceDashboard2025_17674576024080/Dashboard1?publish=yes
+
+### Additional Features in Tableau:
+- Click-to-filter interactivity
+- Hover tooltips with details
+- Animated transitions
