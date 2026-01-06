@@ -16,17 +16,11 @@ Sales team needed visibility into:
 - **Columns:** Transaction ID, Customer details, Product info, Purchase date, Amount
 
 ## Key Insights
-[Add your 3-5 insights here from the project]
-
-Example:
 - VIP customers represent 15% of customer base but generate 45% of revenue
 - North region has highest customer retention rate (68%)
 - Electronics category has highest average transaction value ($450)
 
 ## Recommendations
-[Add your 2-3 recommendations]
-
-Example:
 - Focus sales efforts on converting Returning customers to VIP status
 - Increase marketing budget in South region (lowest engagement)
 - Bundle Electronics with lower-value categories to increase basket size
@@ -45,7 +39,7 @@ Example:
 - Interactive filters and drill-downs
 
 ## View Live Dashboard
-🔗 [Tableau Public Link](your-link-here)
+🔗 https://public.tableau.com/app/profile/jaydeep.raval/viz/CustomerAnalysisDashboard_17677175510170/Dashboard1?publish=yes
 
 ## Skills Demonstrated
 ✅ Business requirements translation
