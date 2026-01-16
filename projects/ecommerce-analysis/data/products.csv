@@ -1,0 +1,41 @@
+﻿product_id,product_name,category,unit_price,cost_price,stock_quantity
+1,Tablet,Electronics,999,789.21,43
+2,Tablet,Electronics,938,750.4,41
+3,Headphones,Electronics,769,584.44,24
+4,Mouse,Electronics,852,673.08,49
+5,Smartphone,Electronics,1032,794.64,48
+6,Speaker,Electronics,670,529.3,28
+7,Monitor,Electronics,1073,665.26,42
+8,Keyboard,Electronics,1005,723.6,27
+9,Monitor,Electronics,993,615.66,34
+10,Headphones,Electronics,1017,783.09,36
+11,Jeans,Fashion,59,37.17,435
+12,Dress,Fashion,63,34.65,159
+13,Cap,Fashion,50,24.5,395
+14,Shorts,Fashion,36,18,235
+15,Hoodie,Fashion,27,14.58,421
+16,Sweater,Fashion,74,42.18,389
+17,T-Shirt,Fashion,22,11.66,497
+18,Shorts,Fashion,91,50.05,290
+19,Sneakers,Fashion,113,72.32,369
+20,Shorts,Fashion,26,16.9,311
+21,Rug,Home,113,73.45,95
+22,Bookshelf,Home,269,161.4,170
+23,Chair,Home,190,114,93
+24,Rug,Home,153,97.92,184
+25,Rug,Home,321,208.65,171
+26,Rug,Home,395,256.75,157
+27,Sofa,Home,365,204.4,192
+28,Lamp,Home,166,91.3,57
+29,Chair,Home,220,134.2,68
+30,Chair,Home,387,255.42,140
+31,Dumbbells,Sports,299,176.41,42
+32,Football,Sports,122,67.1,82
+33,Resistance Band,Sports,86,61.92,137
+34,Tennis Racket,Sports,104,76.96,64
+35,Basketball,Sports,253,136.62,31
+36,Treadmill,Sports,52,33.28,113
+37,Treadmill,Sports,167,108.55,103
+38,Tennis Racket,Sports,179,109.19,135
+39,Treadmill,Sports,240,165.6,117
+40,Sports Shoes,Sports,267,157.53,122
