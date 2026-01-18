@@ -29,7 +29,6 @@ The business needed answers to:
 3. High-value customers drive a large share of sales
    - The top 4 customers generated ~$127K, accounting for ~37% of total revenue, indicating customer revenue concentration.
 
-The top 4 customers generated ~$127K, accounting for ~37% of total revenue, indicating customer revenue concentration.
 ---
 
 ## Skills Demonstrated
@@ -37,5 +36,6 @@ The top 4 customers generated ~$127K, accounting for ~37% of total revenue, indi
 ✅ SQL querying + data aggregation  
 ✅ Python/Pandas analysis  
 ✅ Tableau dashboard reporting  
+
 
 
