@@ -37,3 +37,4 @@ The top 4 customers generated ~$127K, accounting for ~37% of total revenue, indi
 ✅ SQL querying + data aggregation  
 ✅ Python/Pandas analysis  
 ✅ Tableau dashboard reporting  
+
